@@ -1,6 +1,11 @@
 # news-image-20261127
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/Banxia8023/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/Banxia8023/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+
 Entry for make.fun `news-image-20261127`: sum up the world news of Friday 27 November 2026 in one image.
+See the bounty: https://make.fun/bounty/news-image-20261127
 
 The program (`main.ts`, Node 22, standard library only) draws a 1024x1024 PNG newspaper
 front page and writes it to `/output/entry.png`. The text is rendered with a 1-bit bitmap
